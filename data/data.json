@@ -1,0 +1,140 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "CARNE ASADA",
+      "consta_de": [
+        "carne asada al carbón",
+        "porción de arroz",
+        "papa salada o francesa",
+        "ensalada",
+        "arepa"
+      ],
+      "foto": "../img/carne.jpg",
+      "precio": "8500"
+    },
+    {
+      "id": "2",
+      "nombre": "POLLO ASADO",
+      "consta_de": [
+        "Pierna pernil asado al carbón",
+        "porción de arroz",
+        "papa salada o francesa",
+        "ensalada",
+        "arepa"
+      ],
+      "foto": "../img/pollo.jpg",
+      "precio": "8500"
+    },
+    {
+      "id": "3",
+      "nombre": "PECHUGA ASADA",
+      "consta_de": [
+        "Pechuga asada al carbón",
+        "porción de arroz",
+        "papa salada o francesa",
+        "ensalada",
+        "arepa"
+      ],
+      "foto": "../img/R.jpg",
+      "precio": "8500"
+    },
+    {
+      "id": "4",
+      "nombre": "CHORIZO",
+      "consta_de": [
+        "chorizo de cerdo",
+        "arepa",
+        "papa salada o francesa"
+      ],
+      "foto": "../img/choripapa.jpg",
+      "precio": "3000"
+    },
+    {
+      "id": "5",
+      "nombre": "PINCHO",
+      "consta_de": [
+        "pincho de pollo",
+        "arepa",
+        "papa salada o francesa"
+      ],
+      "foto": "../img/pinchopollo.jpg",
+      "precio": "3500"
+    },
+    {
+      "id": "6",
+      "nombre": "BANDEJA CHORIZO",
+      "consta_de": [
+        "chorizo de cerdo",
+        "porción de arroz",
+        "arepa",
+        "papa salada o francesa"
+      ],
+      "foto": "../img/bandejachorizo.jpg",
+      "precio": "4000"
+    },
+    {
+      "id": "7",
+      "nombre": "BANDEJA PINCHO",
+      "consta_de": [
+        "pincho de pollo",
+        "porción de arroz",
+        "arepa",
+        "papa salada o francesa"
+      ],
+      "foto": "../img/bandejapincho.jpg",
+      "precio": "4500"
+    },
+    {
+      "id": "8",
+      "nombre": "AREPA JAMON Y QUESO",
+      "consta_de":[ "Arepa a la brasa rellena de jamón y queso tajado"],
+      "foto": "../img/arepajamon.jpg",
+      "precio": "2000"
+    },
+    {
+      "id": "9",
+      "nombre": "PAPA RELLENA",
+      "consta_de": ["Papa rellena de carne molida, huevo y arroz"],
+      "foto": "../img/paparellena.jpg",
+      "precio": "2000"
+    },
+    {
+      "id": "10",
+      "nombre": "EMPANADA",
+      "consta_de": ["empanada de papa rellena de carne molida"],
+        "foto": "../img/empanadas.jpg",
+      "precio": "1000"
+    },
+    {
+      "id": "11",
+      "nombre": "TINTO",
+      "foto": "../img/tinto.jpg",
+      "precio": "1000"
+    },
+    {
+      "id": "12",
+      "nombre": "CAFÉ",
+      "foto": "../img/cafe.jpg",
+      "precio": "1200"
+    },
+    {
+      "id": "13",
+      "nombre": "GASEOSA 350ML",
+      "foto": "../img/R (1).jpg",
+      "precio": "2000"
+    },
+    {
+      "id": "14",
+      "nombre": "GASEOSA MINI",
+      "foto": "../img/mini.jpg",
+      "precio": "1200"
+    },
+    {
+      "id": "15",
+      "nombre": "CERVEZA",
+      "foto": "../img/Cerveza-Poker-Botella-330-ml.jpg",
+      "precio": "2500"
+    }
+  ]
+}
